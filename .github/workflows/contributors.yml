@@ -16,6 +16,6 @@ jobs:
         ACCESS_TOKEN: ${{secrets.TOKEN_GITHUB}}
         IMG_WIDTH: '50'
         FONT_SIZE: '12'
-        PATH: '/README.md'
+        PATH: '/README.rdoc'
         COMMIT_MESSAGE: 'docs(README): update contributors'
         AVATAR_SHAPE: 'round'
