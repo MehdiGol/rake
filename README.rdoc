@@ -153,3 +153,5 @@ https://github.com/jimweirich/rake/tree/336559f28f55bce418e2ebcc0a57548dcbac4025
 You can {read more about Jim}[https://en.wikipedia.org/wiki/Jim_Weirich] at Wikipedia.
 
 Thank you for this great tool, Jim. We'll remember you.
+
+### Contributors
