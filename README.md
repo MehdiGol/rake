@@ -210,6 +210,13 @@ Thank you for this great tool, Jim. We'll remember you.
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
+        <a href=https://github.com/MehdiGol>
+            <img src=https://avatars.githubusercontent.com/u/13794949?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Mehdi Golzadeh/>
+            <br />
+            <sub style="font-size:12px"><b>Mehdi Golzadeh</b></sub>
+        </a>
+    </td>
+    <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
         <a href=https://github.com/nobu>
             <img src=https://avatars.githubusercontent.com/u/16700?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Nobuyoshi Nakada/>
             <br />
@@ -221,13 +228,6 @@ Thank you for this great tool, Jim. We'll remember you.
             <img src=https://avatars.githubusercontent.com/u/1406203?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Randy Coulman/>
             <br />
             <sub style="font-size:12px"><b>Randy Coulman</b></sub>
-        </a>
-    </td>
-    <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
-        <a href=https://github.com/MehdiGol>
-            <img src=https://avatars.githubusercontent.com/u/13794949?v=4 width="50;"  style="border-radius:50%;align-items:center;justify-content:center;overflow:hidden;padding-top:10px" alt=Mehdi Golzadeh/>
-            <br />
-            <sub style="font-size:12px"><b>Mehdi Golzadeh</b></sub>
         </a>
     </td>
     <td align="center" style="word-wrap: break-word; width: 75.0; height: 75.0">
